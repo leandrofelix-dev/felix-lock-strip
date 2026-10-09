@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "id": "felix-lock-strip",
+  "category": "lockscreens",
+  "version": "0.1.0",
+  "destination": "qylock/themes/felix-lock-strip",
+  "files": [
+    {
+      "source": "LICENSE",
+      "destination": "LICENSE",
+      "mode": "0644",
+      "size": 1062,
+      "sha256": "97483adbcfff65229fdf21ea76178690f1bfe3ccd5fbde97e344e04d625dc4bd",
+      "install": true
+    },
+    {
+      "source": "PROVENANCE.txt",
+      "destination": "PROVENANCE.txt",
+      "mode": "0644",
+      "size": 954,
+      "sha256": "ffa2d1f950d1348ea378b8f1222126ad8769defa31b196528362128d9d9db55b",
+      "install": true
+    },
+    {
+      "source": "assets/preview.png",
+      "destination": "preview.png",
+      "mode": "0644",
+      "size": 62204,
+      "sha256": "c772007330d1a03cd22d30ebdc8bacf567adc314f0abb2e3ae77e828685f486f",
+      "install": false
+    },
+    {
+      "source": "content/Main.qml",
+      "destination": "Main.qml",
+      "mode": "0644",
+      "size": 34330,
+      "sha256": "6fd87587a453c85c627ebef2010227f5d4ed5bc2bb2bc632049799f4723e7842",
+      "install": true
+    },
+    {
+      "source": "content/metadata.desktop",
+      "destination": "metadata.desktop",
+      "mode": "0644",
+      "size": 272,
+      "sha256": "12102aa6681b1b1d2aeda1eaa1a07a6a50e12cc4e16791e5f44c6be26bf07dec",
+      "install": true
+    },
+    {
+      "source": "content/theme.conf",
+      "destination": "theme.conf",
+      "mode": "0644",
+      "size": 188,
+      "sha256": "50bdd6b330ee47f0a2244624266c5ab6adfe7e66bbdad7639b77b9950e9cae99",
+      "install": true
+    },
+    {
+      "source": "content/i18n/I18n.qml",
+      "destination": "i18n/I18n.qml",
+      "mode": "0644",
+      "size": 3018,
+      "sha256": "68159a8b39ec4e7b0cb4f6b97e37a9fde7093069b1b78f68fe3a56216d3c0af4",
+      "install": true
+    },
+    {
+      "source": "content/i18n/qmldir",
+      "destination": "i18n/qmldir",
+      "mode": "0644",
+      "size": 24,
+      "sha256": "25878fb892518053bdbfebd8892a6e6cb0dad0d3d280467ef7b34589519306ef",
+      "install": true
+    }
+  ]
+}

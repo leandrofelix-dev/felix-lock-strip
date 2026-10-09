@@ -1,0 +1,19 @@
+Felix Strip — Ryoku dossier qylock theme (bottom auth bar)
+
+Author: Felix <eu@leandrofelix.dev.br>
+License: MIT; see LICENSE
+Upstream: https://github.com/leandrofelix-dev/felix-lock-strip
+
+Original work for Ryoku / qylock. Companion layout to felix-lock: same
+dossier DNA (mono labels, hairline rules, compact proportions, Scheme
+palette chain) with a different composition — large centered clock and a
+full-width bottom authentication strip instead of left-clock / right-card.
+
+Colour resolves through the same Scheme layer chain as PluginKit (named
+themePalette, then live ~/.cache/ryoku/colors.json) via Quickshell-free
+file:// XHR so the greeter stays import-safe; dossier tokens remain the
+fallback. Greeter i18n reader mirrors the packaged Ryoku SDDM theme
+pattern (system catalog at /usr/share/ryoku/i18n).
+
+Catalogue media lives under assets/ (preview image). Those files are not
+installed with the runtime payload (manifest install: false).

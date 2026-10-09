@@ -1,0 +1,18 @@
+{
+  "id": "felix-lock-strip",
+  "name": "Felix Strip",
+  "version": "0.1.0",
+  "path": "lockscreens/felix-lock-strip",
+  "author": "Felix <eu@leandrofelix.dev.br>",
+  "upstream": "https://github.com/leandrofelix-dev/felix-lock-strip",
+  "summary": "Centered clock + bottom auth strip; Ryoku system palette.",
+  "description": "qylock theme: centered clock stack and full-width bottom auth strip. Same dossier DNA as felix-lock, different layout.",
+  "tags": ["ryoku", "dossier", "minimal", "system-theme"],
+  "accent": "#e2342a",
+  "surface": "#0f0c07",
+  "preview": "assets/preview.png",
+  "screenshots": ["assets/preview.png"],
+  "manifest": "manifest.json",
+  "official": false,
+  "lastUpdated": "2026-10-08"
+}

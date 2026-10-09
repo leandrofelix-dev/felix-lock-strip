@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=felix-lock-strip
+Description=Felix Strip — Ryoku dossier lock with bottom auth bar
+Author=Felix
+Copyright=(c) 2026 Felix
+License=MIT
+Type=sddm-theme
+Version=0.1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+QtVersion=6
+Email=eu@leandrofelix.dev.br
